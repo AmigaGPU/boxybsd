@@ -1,2 +1,2 @@
 # boxybsd
-especially created for the 💕 of BoxyBSD 
+especially created for the 💕 of boxyBSD
